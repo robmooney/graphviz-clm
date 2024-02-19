@@ -1,5 +1,5 @@
 # Graphviz Codeless Language Module
-Graphviz codeless language module for BBEdit.
+BBEdit codeless language module for Graphviz documents.
 
 ## Features
 - Syntax highlighting
@@ -8,4 +8,6 @@ Graphviz codeless language module for BBEdit.
 - Commenting/uncommenting shortcut (`Cmd-/`) support
 
 ## Instalation
-Move to BBEdit's language modules folder. If you select `BBEdit > Folders > Language Modules` in the BBEdit menu bar, the Language Modules folder will be revealed to you in the Finder.
+Copy to BBEdit's language modules folder. 
+
+If you select `BBEdit > Folders > Language Modules` in the BBEdit menu bar, the Language Modules folder will be revealed for you in the Finder.
