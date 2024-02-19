@@ -1,2 +1,2 @@
-# graphviz-clm
-Graphviz codeless language module for BBEdit
+# Graphviz Codeless Language Module
+Graphviz codeless language module for BBEdit.
