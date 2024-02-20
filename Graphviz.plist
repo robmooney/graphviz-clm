@@ -1513,16 +1513,19 @@
 		<string><![CDATA[
 		(?x:
 			("(\\"|[^"\r]|\\\r)*") | (?# Double-quote)
-			('(\\'|[^'\r]|\\\r)*') | (?# Single-quote)
+			('(\\'|[^'\r]|\\\r)*') (?# Single-quote)
 		)
 		]]></string>
+
 		<key>Comment Pattern</key>
 		<string><![CDATA[
 		(?x:
-			(\/\/.*?$)			|				(?# Line comment)
-			(?s:^\/\*.+?^\*\/)			(?# Block comment)
+			(\/\/.*?$) | (?# Line comment)
+			(?s:^\/\*.+?^\*\/) (?# Block comment)
 		)
 		]]></string>
+
+
 		<key>Function Pattern</key>
 		<string><![CDATA[
 		(?x:
