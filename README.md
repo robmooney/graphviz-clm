@@ -1,6 +1,8 @@
 # Graphviz Codeless Language Module
 BBEdit codeless language module for Graphviz documents.
 
+![Screenshot of Graphviz file in BBEdit](finite_state_machine@2x.png)
+
 ## Features
 - Syntax highlighting
 - Code completion for keywords and identifiers, including attribute names, colors, shapes, styles, etc.
