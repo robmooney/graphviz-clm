@@ -1,7 +1,7 @@
 # Graphviz Codeless Language Module
 BBEdit codeless language module for Graphviz documents.
 
-<img src="fancy@2x.png" alt="Screenshot of Graphviz file in BBEdit" width=559>
+<img src="graphviz-clm@2x.png" alt="Screenshot of Graphviz file in BBEdit" width=683>
 
 ## Features
 - Syntax highlighting
