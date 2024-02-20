@@ -10,6 +10,6 @@ Graphviz codeless language module for [BBEdit](https://www.barebones.com/product
 - Commenting/uncommenting using `Cmd-/`
 
 ## Installation
-Copy `Graphviz.plist` to BBEdit's Language Modules folder. 
+Copy `Graphviz.plist` to the Language Modules folder in `~/Library/Application Support/BBEdit/`. 
 
-If you select `BBEdit > Folders > Language Modules` in the BBEdit menu bar, the folder will be opened for you in the Finder.
+If you select `BBEdit > Folders > Language Modules` in BBEdit, the folder will be opened for you in the Finder.
