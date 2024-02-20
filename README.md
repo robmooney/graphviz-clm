@@ -6,7 +6,7 @@ Graphviz codeless language module for [BBEdit](https://www.barebones.com/product
 ## Features
 - Syntax highlighting
 - Code completion for keywords and identifiers - includes attributes, colors, shapes, styles and more
-- Documentation for many symbols can be accessed using `Search > Find in Documentation…`
+- Documentation for many attributes can be accessed using `Search > Find in Documentation…`
 - Commenting/uncommenting using `Cmd-/`
 
 ## Installation
