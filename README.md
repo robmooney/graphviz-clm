@@ -3,11 +3,11 @@ BBEdit codeless language module for Graphviz documents.
 
 ## Features
 - Syntax highlighting
-- Code completion for keywords and identifiers
-  - Including attribute names, colors, shapes, styles, etc.
-- Commenting/uncommenting shortcut (`Cmd-/`) support
+- Code completion for keywords and identifiers, including attribute names, colors, shapes, styles, etc.
+- Documentation for symbols can be accessed using `Search > Find in Documentation…`
+- Commenting/uncommenting using `Cmd-/`
 
-## Instalation
-Copy to BBEdit's language modules folder. 
+## Installation
+Copy to BBEdit's Language Modules folder. 
 
-If you select `BBEdit > Folders > Language Modules` in the BBEdit menu bar, the Language Modules folder will be revealed for you in the Finder.
+If you select `BBEdit > Folders > Language Modules` in the BBEdit menu bar, the folder will be opened for you in the Finder.
