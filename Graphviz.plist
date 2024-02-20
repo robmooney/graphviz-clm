@@ -1521,7 +1521,7 @@
 		<string><![CDATA[
 		(?x:
 			(\/\/.*?$) | (?# Line comment)
-			(?s:^\/\*.+?^\*\/) (?# Block comment)
+			(?s:\/\*.+?\*\/) (?# Block comment)
 		)
 		]]></string>
 
