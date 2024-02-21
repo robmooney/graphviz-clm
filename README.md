@@ -1,5 +1,5 @@
 # Graphviz Codeless Language Module
-Graphviz codeless language module for [BBEdit](https://www.barebones.com/products/bbedit/index.html).
+Codeless language module for [Graphviz](https://graphviz.org) documents in [BBEdit](https://www.barebones.com/products/bbedit/index.html).
 
 <img src="graphviz-clm@2x.png" alt="Screenshot of Graphviz file in BBEdit" width=683>
 
